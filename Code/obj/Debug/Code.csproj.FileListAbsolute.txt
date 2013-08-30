@@ -1,0 +1,10 @@
+C:\WorkSpace\驗證碼\Code\Code\bin\Code.dll
+C:\WorkSpace\驗證碼\Code\Code\bin\Code.pdb
+C:\WorkSpace\驗證碼\Code\Code\obj\Debug\Code.dll
+C:\WorkSpace\驗證碼\Code\Code\obj\Debug\Code.pdb
+C:\Users\alphea_kung\Desktop\Code\Code\bin\Code.dll
+C:\Users\alphea_kung\Desktop\Code\Code\bin\Code.pdb
+C:\Users\alphea_kung\Desktop\Code\Code\obj\Debug\Code.csprojResolveAssemblyReference.cache
+C:\Users\alphea_kung\Desktop\Code\Code\obj\Debug\Code.dll
+C:\Users\alphea_kung\Desktop\Code\Code\obj\Debug\Code.pdb
+C:\Users\alphea_kung\Desktop\Code\Code\bin\Code.dll.config
